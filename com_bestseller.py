@@ -1,5 +1,6 @@
 import csv
 import requests
+import random as r
 from bs4 import BeautifulSoup
 
 #1 page
